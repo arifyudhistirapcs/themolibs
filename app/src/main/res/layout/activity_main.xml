@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Toast"
-        tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="453dp" />
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="471dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
